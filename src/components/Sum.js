@@ -5,7 +5,17 @@ function Sum(props) {
 
   return (
     <p>
-      Sum of {a} and {b} is {a + b}
+      Sum of
+      {' '}
+      {a}
+      {' '}
+and
+      {' '}
+      {b}
+      {' '}
+is
+      {' '}
+      {a + b}
     </p>
   );
 }

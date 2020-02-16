@@ -3,9 +3,15 @@ import Sum from './components/Sum';
 import './App.css';
 
 const params = [
-  { a: 2, b: 2 },
-  { a: 10, b: 0 },
-  { a: -5, b: 5 },
+  {
+    a: 2, b: 2,
+  },
+  {
+    a: 10, b: 0,
+  },
+  {
+    a: -5, b: 5,
+  },
 ];
 
 const App = () => (
